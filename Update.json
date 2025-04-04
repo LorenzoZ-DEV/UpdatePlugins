@@ -1,0 +1,14 @@
+{
+    "plugins": {
+      "nUtils": {
+        "latest_version": "2.14"
+      },
+      "vTokens": {
+        "latest_version": "1.02"
+      },
+      "vUtils": {
+        "latest_version": "1.0.5"
+      }
+    }
+  }
+  
