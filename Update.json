@@ -1,7 +1,7 @@
 {
     "plugins": {
       "nUtils": {
-        "latest_version": "2.14-h1"
+        "latest_version": "2.14-h2"
       },
       "vTokens": {
         "latest_version": "1.02"
