@@ -1,16 +1,16 @@
 {
     "plugins": {
-      "nUtils": {
-        "latest_version": "2.14-h1"
-      },
-      "vTokens": {
-        "latest_version": "1.03"
-      },
-      "vUtils": {
-        "latest_version": "1.0.5"
-      }, 
+        "nUtils": {
+            "latest_version": "2.14-h1"
+        },
+        "vTokens": {
+            "latest_version": "1.03"
+        },
+        "vUtils": {
+            "latest_version": "1.0.5"
+        },
         "Hentai": {
-        "latest_version": "0.5.0-b1"
+            "latest_version": "0.5.0-b1"
+        }
     }
-  }
-  
+}
