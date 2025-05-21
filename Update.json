@@ -9,6 +9,9 @@
         "vUtils": {
             "latest_version": "1.0.5"
         },
+        "Purgatory": {
+            "latest_version": "1.1.2"
+        },
         "Hentai": {
             "latest_version": "0.4.1"
         }
