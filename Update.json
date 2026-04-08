@@ -6,6 +6,9 @@
         "vTokens": {
             "latest_version": "1.0.4"
         },
+        "LuxurySellGUI": 
+            "latest_version": "1.0.3.1"
+        },
         "vUtils": {
             "latest_version": "1.0.5"
         },
